@@ -6,7 +6,7 @@ Gizlilik politikamız, Kim Bilebilir'de hangi bilgileri topladığımızı, Kim 
 
 **Bilgi Toplama ve Kullanımı**
 
-Kim Bilebilir uygulamasında, kişisel bilgi toplamamıza gerek yoktur. Sadece anonim geri bildirimler topluyoruz. Gelecekteki güncellemelerde, kimlik doğrulama amacıyla bir e-posta adresi gerekliliği olabilir. Uygulama, AdMob ve RevenueCat gibi güvenli platformlar aracılığıyla sizi tanımlamak için bilgi toplayabilen üçüncü taraf hizmetleri kullanır.
+Kim Bilebilir uygulamasında kullanıcılarımıza daha iyi bir hizmet sunmak amacıyla bazı kişisel bilgileri toplamaktayız. Kayıt sürecinde kullanıcılarımızdan telefon numarası, isim ve soyisim bilgilerini talep ediyoruz. Uygulama içerisinde, kullanıcılarımızın işlemlerini kolaylaştırmak amacıyla IBAN bilgisi gibi ek finansal bilgiler de alınabilir. Topladığımız bu bilgiler, kullanıcılarımızın kimliğini doğrulamak ve güvenilir bir hizmet sağlamak amacıyla kullanılmaktadır. Bu bilgileri yalnızca hizmetlerimizi iyileştirmek ve kullanıcı güvenliğini sağlamak için kullanıyor, Gizlilik Politikamızda belirtilen durumlar haricinde üçüncü taraflarla paylaşmıyoruz.
 
 **Çerezler**
 
@@ -28,7 +28,7 @@ Kişisel Bilgilerinizi bize sağlama konusundaki güveninize değer veriyoruz; b
 
 **Çocukların Gizliliği**
 
-Bu Hizmetler, 13 yaş altındaki bireylere hitap etmez. 13 yaş altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz. 13 yaş altındaki bir çocuğun bize kişisel bilgi sağladığını öğrenirsek, bunu derhal sunucularımızdan sileriz. Bir ebeveyn veya veli iseniz ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, lütfen bizimle iletişime geçin, böylece gerekli önlemleri alabiliriz.
+Bu Hizmetler, 18 yaş altındaki bireylere hitap etmez. 18 yaş altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz. 18 yaş altındaki bir çocuğun bize kişisel bilgi sağladığını öğrenirsek, bunu derhal sunucularımızdan sileriz. Bir ebeveyn veya veli iseniz ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, lütfen bizimle iletişime geçin, böylece gerekli önlemleri alabiliriz.
 
 **Bu Gizlilik Politikasında Değişiklikler**
 
