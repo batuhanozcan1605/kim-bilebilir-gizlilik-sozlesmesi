@@ -28,7 +28,7 @@ Kişisel Bilgilerinizi bize sağlama konusundaki güveninize değer veriyoruz; b
 
 **Çocukların Gizliliği**
 
-Bu Hizmetler, 18 yaş altındaki bireylere hitap etmez. 18 yaş altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz. 18 yaş altındaki bir çocuğun bize kişisel bilgi sağladığını öğrenirsek, bunu derhal sunucularımızdan sileriz. Bir ebeveyn veya veli iseniz ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, lütfen bizimle iletişime geçin, böylece gerekli önlemleri alabiliriz.
+18 yaş altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz. 18 yaş altındaki bir çocuğun bize kişisel bilgi sağladığını öğrenirsek, bunu derhal sunucularımızdan sileriz. Bir ebeveyn veya veli iseniz ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, lütfen bizimle iletişime geçin, böylece gerekli önlemleri alabiliriz.
 
 **Bu Gizlilik Politikasında Değişiklikler**
 
