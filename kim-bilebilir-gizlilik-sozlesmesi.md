@@ -38,4 +38,4 @@ Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir
 
 Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin.
 
-İletişim Bilgileri: E-posta: canfurkanhilmi@gmail.com
+İletişim Bilgileri: E-posta: destek@kimbilebilir.info
