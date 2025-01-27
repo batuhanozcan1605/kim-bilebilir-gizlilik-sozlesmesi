@@ -6,7 +6,7 @@ Gizlilik politikamız, Kim Bilebilir'de hangi bilgileri topladığımızı, Kim 
 
 **Bilgi Toplama ve Kullanımı**
 
-Kim Bilebilir uygulamasında kullanıcılarımıza daha iyi bir hizmet sunmak amacıyla bazı kişisel bilgileri toplamaktayız. Kayıt sürecinde kullanıcılarımızdan telefon numarası, isim ve soyisim bilgilerini talep ediyoruz. Uygulama içerisinde, kullanıcılarımızın işlemlerini kolaylaştırmak amacıyla IBAN bilgisi gibi ek finansal bilgiler de alınabilir. Topladığımız bu bilgiler, kullanıcılarımızın kimliğini doğrulamak ve güvenilir bir hizmet sağlamak amacıyla kullanılmaktadır. Bu bilgileri yalnızca hizmetlerimizi iyileştirmek ve kullanıcı güvenliğini sağlamak için kullanıyor, Gizlilik Politikamızda belirtilen durumlar haricinde üçüncü taraflarla paylaşmıyoruz.
+Kim Bilebilir uygulamasında kullanıcılarımıza daha iyi bir hizmet sunmak amacıyla bazı kişisel bilgileri toplamaktayız. Kayıt sürecinde kullanıcılarımızdan telefon numarası, isim ve soyisim bilgilerini talep ediyoruz. Topladığımız bu bilgiler, kullanıcılarımızın kimliğini doğrulamak ve güvenilir bir hizmet sağlamak amacıyla kullanılmaktadır. Bu bilgileri yalnızca hizmetlerimizi iyileştirmek ve kullanıcı güvenliğini sağlamak için kullanıyor, Gizlilik Politikamızda belirtilen durumlar haricinde üçüncü taraflarla paylaşmıyoruz.
 
 **Çerezler**
 
